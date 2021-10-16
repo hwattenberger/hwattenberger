@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hwattenberger - Hilary Wattenberger.  Take a look at my portfolio at https://hilary-wattenberger.netlify.app/.
+- 🌱 I’m currently learning ... as much as possible but currently focusing on Javascript (front-end and back-end).
+- 📫 How to reach me ... hwattenberger@gmail.com
